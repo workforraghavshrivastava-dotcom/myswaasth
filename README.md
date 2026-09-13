@@ -26,7 +26,7 @@ Designed for emergency departments, urgent care centers, and pre-hospital triage
 
 The intake module allows patients and emergency triage nurses to record comprehensive medical histories across multiple modalities simultaneously:
 
-![Multimodal Patient Intake Engine](./public/screenshots/triage-intake.jpg)
+![Multimodal Patient Intake Engine]("C:\Users\Raghav\Pictures\Screenshots\Screenshot 2026-09-13 143247.png")
 
 - **Unstructured Chief Complaint & Voice Dictation**: Patients can type their symptoms or record voice notes using speech-to-text with audio playback and transcription.
 - **Clinical Image & Diagnostic Upload**: Drag-and-drop support for high-resolution medical imagery, including dermatological rashes, wound trauma, swelling, and diagnostic ECG rhythm strips.
